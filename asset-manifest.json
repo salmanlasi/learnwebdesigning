@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/learnwebdesigning/static/css/main.f8d8b519.chunk.css",
+    "main.js": "/learnwebdesigning/static/js/main.b6f1b8a6.chunk.js",
+    "main.js.map": "/learnwebdesigning/static/js/main.b6f1b8a6.chunk.js.map",
+    "runtime~main.js": "/learnwebdesigning/static/js/runtime~main.24977332.js",
+    "runtime~main.js.map": "/learnwebdesigning/static/js/runtime~main.24977332.js.map",
+    "static/css/2.83d756e6.chunk.css": "/learnwebdesigning/static/css/2.83d756e6.chunk.css",
+    "static/js/2.089906c7.chunk.js": "/learnwebdesigning/static/js/2.089906c7.chunk.js",
+    "static/js/2.089906c7.chunk.js.map": "/learnwebdesigning/static/js/2.089906c7.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/learnwebdesigning/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/learnwebdesigning/static/js/3.31c88699.chunk.js.map",
+    "index.html": "/learnwebdesigning/index.html",
+    "precache-manifest.8e6693980bd1befd948f5d17bcff0f3d.js": "/learnwebdesigning/precache-manifest.8e6693980bd1befd948f5d17bcff0f3d.js",
+    "service-worker.js": "/learnwebdesigning/service-worker.js",
+    "static/css/2.83d756e6.chunk.css.map": "/learnwebdesigning/static/css/2.83d756e6.chunk.css.map",
+    "static/css/main.f8d8b519.chunk.css.map": "/learnwebdesigning/static/css/main.f8d8b519.chunk.css.map"
+  }
+}
