@@ -21,13 +21,13 @@ export default function Navbar() {
   <div className="collapse navbar-collapse" id="navbarSupportedContent">
     <ul className="navbar-nav mr-auto">
     <li classNameName="nav-item">
-          <a classNameName="nav-link active " aria-current="page" id='a' href="/">HTML</a>
+          <Link classNameName="nav-link active " aria-current="page" id='a' to="/">HTML</Link>
         </li>
         <li classNameName="nav-item">
-          <a classNameName="nav-link active " aria-current="page" id='a' href="/about">CSS</a>
+          <Link classNameName="nav-link active " aria-current="page" id='a' to="/css">CSS</Link>
         </li>
         <li classNameName="nav-item">
-          <a classNameName="nav-link active " aria-current="page" id='a' href="/services">JAVASCRIPT</a>
+          <Link classNameName="nav-link active " aria-current="page" id='a' to="/javascript">JAVASCRIPT</Link>
         </li>
       
      </ul>
@@ -41,3 +41,9 @@ export default function Navbar() {
     </div>
   )
 }
+
+
+
+
+
+
